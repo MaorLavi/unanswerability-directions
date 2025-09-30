@@ -3,6 +3,7 @@
 This repository contains the official code of the paper: ["Detecting (Un)answerability in Large Language Models with Linear Directions"](https://arxiv.org/abs/2509.22449).
 
 ### Citation
+```bash
 @misc{lavi2025detectingunanswerabilitylargelanguage,
       title={Detecting (Un)answerability in Large Language Models with Linear Directions}, 
       author={Maor Juliet Lavi and Tova Milo and Mor Geva},
@@ -12,7 +13,7 @@ This repository contains the official code of the paper: ["Detecting (Un)answera
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2509.22449}, 
 }
-
+```
 ## Setup
 Our experiments were conducted in a **Python 3.11** environment. To clone the repository and set up the environment, please run the following commands:
 ```bash
