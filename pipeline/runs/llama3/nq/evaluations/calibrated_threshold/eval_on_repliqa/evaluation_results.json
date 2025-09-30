@@ -1,0 +1,17 @@
+{
+    "answerable": {
+        "precision": 0.9308,
+        "recall": 0.915,
+        "f1": 0.9228
+    },
+    "unanswerable": {
+        "precision": 0.9164,
+        "recall": 0.932,
+        "f1": 0.9241
+    },
+    "overall": {
+        "precision": 0.9236,
+        "recall": 0.9235,
+        "f1": 0.9235
+    }
+}

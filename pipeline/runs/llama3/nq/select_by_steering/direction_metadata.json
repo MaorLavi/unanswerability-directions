@@ -1,0 +1,8 @@
+{
+    "pos": -1,
+    "layer": 16,
+    "threshold": "-0.22",
+    "threshold_on_squad": "-0.63",
+    "threshold_on_repliqa": "-0.59",
+    "threshold_on_musique": "0.96"
+}

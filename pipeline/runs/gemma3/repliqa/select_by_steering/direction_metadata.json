@@ -1,0 +1,8 @@
+{
+    "pos": -1,
+    "layer": 26,
+    "threshold": "39643.79",
+    "threshold_on_squad": "39738.65",
+    "threshold_on_nq": "40087.23",
+    "threshold_on_musique": "40872.32"
+}

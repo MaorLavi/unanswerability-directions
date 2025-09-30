@@ -1,0 +1,1202 @@
+[
+    {
+        "position": -4,
+        "layer": 27,
+        "steering_score": 9.261170387268066
+    },
+    {
+        "position": -4,
+        "layer": 28,
+        "steering_score": 9.188800811767578
+    },
+    {
+        "position": -1,
+        "layer": 27,
+        "steering_score": 8.413244247436523
+    },
+    {
+        "position": -4,
+        "layer": 31,
+        "steering_score": 8.361255645751953
+    },
+    {
+        "position": -4,
+        "layer": 26,
+        "steering_score": 8.04249095916748
+    },
+    {
+        "position": -1,
+        "layer": 28,
+        "steering_score": 7.778027057647705
+    },
+    {
+        "position": -4,
+        "layer": 32,
+        "steering_score": 7.636466026306152
+    },
+    {
+        "position": -4,
+        "layer": 33,
+        "steering_score": 7.403550624847412
+    },
+    {
+        "position": -4,
+        "layer": 34,
+        "steering_score": 7.195710182189941
+    },
+    {
+        "position": -4,
+        "layer": 29,
+        "steering_score": 7.164041519165039
+    },
+    {
+        "position": -1,
+        "layer": 25,
+        "steering_score": 6.894683837890625
+    },
+    {
+        "position": -1,
+        "layer": 26,
+        "steering_score": 6.815659523010254
+    },
+    {
+        "position": -4,
+        "layer": 25,
+        "steering_score": 6.745325565338135
+    },
+    {
+        "position": -4,
+        "layer": 30,
+        "steering_score": 6.612850666046143
+    },
+    {
+        "position": -4,
+        "layer": 35,
+        "steering_score": 6.2089972496032715
+    },
+    {
+        "position": -1,
+        "layer": 29,
+        "steering_score": 5.95652961730957
+    },
+    {
+        "position": -3,
+        "layer": 25,
+        "steering_score": 4.81007194519043
+    },
+    {
+        "position": -1,
+        "layer": 31,
+        "steering_score": 4.599853038787842
+    },
+    {
+        "position": -2,
+        "layer": 35,
+        "steering_score": 4.567525386810303
+    },
+    {
+        "position": -1,
+        "layer": 30,
+        "steering_score": 4.311376094818115
+    },
+    {
+        "position": -2,
+        "layer": 39,
+        "steering_score": 4.307940483093262
+    },
+    {
+        "position": -1,
+        "layer": 24,
+        "steering_score": 4.215953826904297
+    },
+    {
+        "position": -4,
+        "layer": 37,
+        "steering_score": 4.040270805358887
+    },
+    {
+        "position": -4,
+        "layer": 44,
+        "steering_score": 3.972351551055908
+    },
+    {
+        "position": -4,
+        "layer": 40,
+        "steering_score": 3.950322151184082
+    },
+    {
+        "position": -4,
+        "layer": 36,
+        "steering_score": 3.9396331310272217
+    },
+    {
+        "position": -1,
+        "layer": 34,
+        "steering_score": 3.676506757736206
+    },
+    {
+        "position": -2,
+        "layer": 28,
+        "steering_score": 3.626286506652832
+    },
+    {
+        "position": -2,
+        "layer": 36,
+        "steering_score": 3.6231956481933594
+    },
+    {
+        "position": -2,
+        "layer": 34,
+        "steering_score": 3.6045074462890625
+    },
+    {
+        "position": -2,
+        "layer": 27,
+        "steering_score": 3.5047545433044434
+    },
+    {
+        "position": -4,
+        "layer": 43,
+        "steering_score": 3.4437594413757324
+    },
+    {
+        "position": -2,
+        "layer": 37,
+        "steering_score": 3.349018096923828
+    },
+    {
+        "position": -3,
+        "layer": 24,
+        "steering_score": 3.295083522796631
+    },
+    {
+        "position": -4,
+        "layer": 39,
+        "steering_score": 3.2686636447906494
+    },
+    {
+        "position": -2,
+        "layer": 26,
+        "steering_score": 3.169875144958496
+    },
+    {
+        "position": -4,
+        "layer": 38,
+        "steering_score": 3.1283819675445557
+    },
+    {
+        "position": -1,
+        "layer": 47,
+        "steering_score": 3.0396783351898193
+    },
+    {
+        "position": -2,
+        "layer": 40,
+        "steering_score": 3.0391409397125244
+    },
+    {
+        "position": -4,
+        "layer": 41,
+        "steering_score": 3.0106022357940674
+    },
+    {
+        "position": -2,
+        "layer": 33,
+        "steering_score": 2.9823403358459473
+    },
+    {
+        "position": -2,
+        "layer": 29,
+        "steering_score": 2.9437997341156006
+    },
+    {
+        "position": -1,
+        "layer": 35,
+        "steering_score": 2.942741632461548
+    },
+    {
+        "position": -3,
+        "layer": 26,
+        "steering_score": 2.928762674331665
+    },
+    {
+        "position": -1,
+        "layer": 23,
+        "steering_score": 2.9067046642303467
+    },
+    {
+        "position": -2,
+        "layer": 44,
+        "steering_score": 2.9064221382141113
+    },
+    {
+        "position": -2,
+        "layer": 30,
+        "steering_score": 2.879349708557129
+    },
+    {
+        "position": -1,
+        "layer": 32,
+        "steering_score": 2.872664451599121
+    },
+    {
+        "position": -3,
+        "layer": 22,
+        "steering_score": 2.818859815597534
+    },
+    {
+        "position": -2,
+        "layer": 38,
+        "steering_score": 2.744842052459717
+    },
+    {
+        "position": -1,
+        "layer": 33,
+        "steering_score": 2.718574047088623
+    },
+    {
+        "position": -2,
+        "layer": 31,
+        "steering_score": 2.704732656478882
+    },
+    {
+        "position": -2,
+        "layer": 41,
+        "steering_score": 2.5225627422332764
+    },
+    {
+        "position": -2,
+        "layer": 32,
+        "steering_score": 2.4734508991241455
+    },
+    {
+        "position": -2,
+        "layer": 43,
+        "steering_score": 2.341017961502075
+    },
+    {
+        "position": -4,
+        "layer": 42,
+        "steering_score": 2.3265111446380615
+    },
+    {
+        "position": -3,
+        "layer": 23,
+        "steering_score": 2.304743528366089
+    },
+    {
+        "position": -1,
+        "layer": 36,
+        "steering_score": 2.279247760772705
+    },
+    {
+        "position": -4,
+        "layer": 24,
+        "steering_score": 2.2004849910736084
+    },
+    {
+        "position": -3,
+        "layer": 21,
+        "steering_score": 2.050257444381714
+    },
+    {
+        "position": -2,
+        "layer": 25,
+        "steering_score": 2.0438432693481445
+    },
+    {
+        "position": -1,
+        "layer": 39,
+        "steering_score": 1.820994257926941
+    },
+    {
+        "position": -1,
+        "layer": 46,
+        "steering_score": 1.7613824605941772
+    },
+    {
+        "position": -1,
+        "layer": 21,
+        "steering_score": 1.6055033206939697
+    },
+    {
+        "position": -2,
+        "layer": 42,
+        "steering_score": 1.491388201713562
+    },
+    {
+        "position": -2,
+        "layer": 45,
+        "steering_score": 1.4103254079818726
+    },
+    {
+        "position": -1,
+        "layer": 22,
+        "steering_score": 1.3631008863449097
+    },
+    {
+        "position": -1,
+        "layer": 38,
+        "steering_score": 1.3235197067260742
+    },
+    {
+        "position": -1,
+        "layer": 40,
+        "steering_score": 1.2940664291381836
+    },
+    {
+        "position": -1,
+        "layer": 37,
+        "steering_score": 1.2416759729385376
+    },
+    {
+        "position": -4,
+        "layer": 45,
+        "steering_score": 1.184346079826355
+    },
+    {
+        "position": -4,
+        "layer": 46,
+        "steering_score": 1.0089681148529053
+    },
+    {
+        "position": -3,
+        "layer": 27,
+        "steering_score": 0.9313398599624634
+    },
+    {
+        "position": -1,
+        "layer": 45,
+        "steering_score": 0.837717592716217
+    },
+    {
+        "position": -5,
+        "layer": 26,
+        "steering_score": 0.807094931602478
+    },
+    {
+        "position": -1,
+        "layer": 41,
+        "steering_score": 0.7736563086509705
+    },
+    {
+        "position": -5,
+        "layer": 25,
+        "steering_score": 0.7556449770927429
+    },
+    {
+        "position": -1,
+        "layer": 43,
+        "steering_score": 0.688355565071106
+    },
+    {
+        "position": -5,
+        "layer": 24,
+        "steering_score": 0.38702017068862915
+    },
+    {
+        "position": -1,
+        "layer": 42,
+        "steering_score": 0.3358289301395416
+    },
+    {
+        "position": -2,
+        "layer": 46,
+        "steering_score": 0.32693010568618774
+    },
+    {
+        "position": -1,
+        "layer": 44,
+        "steering_score": 0.25149860978126526
+    },
+    {
+        "position": -4,
+        "layer": 23,
+        "steering_score": 0.1958111673593521
+    },
+    {
+        "position": -4,
+        "layer": 47,
+        "steering_score": 0.10008499026298523
+    },
+    {
+        "position": -2,
+        "layer": 24,
+        "steering_score": -0.03438620641827583
+    },
+    {
+        "position": -3,
+        "layer": 20,
+        "steering_score": -0.19077952206134796
+    },
+    {
+        "position": -5,
+        "layer": 22,
+        "steering_score": -0.3916965425014496
+    },
+    {
+        "position": -5,
+        "layer": 27,
+        "steering_score": -0.4502263069152832
+    },
+    {
+        "position": -5,
+        "layer": 23,
+        "steering_score": -0.5060857534408569
+    },
+    {
+        "position": -3,
+        "layer": 16,
+        "steering_score": -0.5849781036376953
+    },
+    {
+        "position": -3,
+        "layer": 18,
+        "steering_score": -0.5874230861663818
+    },
+    {
+        "position": -5,
+        "layer": 28,
+        "steering_score": -0.6187483072280884
+    },
+    {
+        "position": -2,
+        "layer": 23,
+        "steering_score": -0.630827784538269
+    },
+    {
+        "position": -5,
+        "layer": 21,
+        "steering_score": -0.7300456166267395
+    },
+    {
+        "position": -4,
+        "layer": 22,
+        "steering_score": -0.7606318593025208
+    },
+    {
+        "position": -5,
+        "layer": 20,
+        "steering_score": -0.9417439103126526
+    },
+    {
+        "position": -3,
+        "layer": 15,
+        "steering_score": -0.9740607142448425
+    },
+    {
+        "position": -5,
+        "layer": 47,
+        "steering_score": -0.98585444688797
+    },
+    {
+        "position": -3,
+        "layer": 28,
+        "steering_score": -1.0278019905090332
+    },
+    {
+        "position": -3,
+        "layer": 14,
+        "steering_score": -1.0686582326889038
+    },
+    {
+        "position": -1,
+        "layer": 20,
+        "steering_score": -1.080712914466858
+    },
+    {
+        "position": -5,
+        "layer": 19,
+        "steering_score": -1.173540472984314
+    },
+    {
+        "position": -3,
+        "layer": 13,
+        "steering_score": -1.2296421527862549
+    },
+    {
+        "position": -3,
+        "layer": 46,
+        "steering_score": -1.277858018875122
+    },
+    {
+        "position": -3,
+        "layer": 12,
+        "steering_score": -1.307230830192566
+    },
+    {
+        "position": -4,
+        "layer": 19,
+        "steering_score": -1.3335330486297607
+    },
+    {
+        "position": -2,
+        "layer": 20,
+        "steering_score": -1.338586449623108
+    },
+    {
+        "position": -5,
+        "layer": 33,
+        "steering_score": -1.34495210647583
+    },
+    {
+        "position": -2,
+        "layer": 21,
+        "steering_score": -1.3482824563980103
+    },
+    {
+        "position": -5,
+        "layer": 34,
+        "steering_score": -1.3715558052062988
+    },
+    {
+        "position": -3,
+        "layer": 11,
+        "steering_score": -1.4038225412368774
+    },
+    {
+        "position": -2,
+        "layer": 19,
+        "steering_score": -1.4347000122070312
+    },
+    {
+        "position": -2,
+        "layer": 12,
+        "steering_score": -1.43661630153656
+    },
+    {
+        "position": -3,
+        "layer": 47,
+        "steering_score": -1.4373345375061035
+    },
+    {
+        "position": -2,
+        "layer": 13,
+        "steering_score": -1.4513094425201416
+    },
+    {
+        "position": -3,
+        "layer": 31,
+        "steering_score": -1.462085485458374
+    },
+    {
+        "position": -1,
+        "layer": 19,
+        "steering_score": -1.4668126106262207
+    },
+    {
+        "position": -5,
+        "layer": 13,
+        "steering_score": -1.479999303817749
+    },
+    {
+        "position": -4,
+        "layer": 18,
+        "steering_score": -1.4816229343414307
+    },
+    {
+        "position": -5,
+        "layer": 12,
+        "steering_score": -1.4883732795715332
+    },
+    {
+        "position": -5,
+        "layer": 35,
+        "steering_score": -1.4899431467056274
+    },
+    {
+        "position": -3,
+        "layer": 19,
+        "steering_score": -1.4945534467697144
+    },
+    {
+        "position": -4,
+        "layer": 21,
+        "steering_score": -1.5151382684707642
+    },
+    {
+        "position": -3,
+        "layer": 44,
+        "steering_score": -1.5348968505859375
+    },
+    {
+        "position": -5,
+        "layer": 29,
+        "steering_score": -1.5405365228652954
+    },
+    {
+        "position": -2,
+        "layer": 15,
+        "steering_score": -1.5563781261444092
+    },
+    {
+        "position": -1,
+        "layer": 11,
+        "steering_score": -1.5694838762283325
+    },
+    {
+        "position": -2,
+        "layer": 47,
+        "steering_score": -1.5755925178527832
+    },
+    {
+        "position": -5,
+        "layer": 11,
+        "steering_score": -1.5890008211135864
+    },
+    {
+        "position": -5,
+        "layer": 46,
+        "steering_score": -1.6238393783569336
+    },
+    {
+        "position": -5,
+        "layer": 32,
+        "steering_score": -1.6337722539901733
+    },
+    {
+        "position": -3,
+        "layer": 9,
+        "steering_score": -1.638193964958191
+    },
+    {
+        "position": -3,
+        "layer": 10,
+        "steering_score": -1.6398141384124756
+    },
+    {
+        "position": -2,
+        "layer": 14,
+        "steering_score": -1.6477248668670654
+    },
+    {
+        "position": -4,
+        "layer": 17,
+        "steering_score": -1.6544148921966553
+    },
+    {
+        "position": -3,
+        "layer": 43,
+        "steering_score": -1.656482219696045
+    },
+    {
+        "position": -3,
+        "layer": 32,
+        "steering_score": -1.6630058288574219
+    },
+    {
+        "position": -1,
+        "layer": 12,
+        "steering_score": -1.666919231414795
+    },
+    {
+        "position": -3,
+        "layer": 8,
+        "steering_score": -1.6708297729492188
+    },
+    {
+        "position": -3,
+        "layer": 17,
+        "steering_score": -1.6729812622070312
+    },
+    {
+        "position": -1,
+        "layer": 18,
+        "steering_score": -1.674373745918274
+    },
+    {
+        "position": -1,
+        "layer": 13,
+        "steering_score": -1.6794992685317993
+    },
+    {
+        "position": -1,
+        "layer": 15,
+        "steering_score": -1.6891454458236694
+    },
+    {
+        "position": -4,
+        "layer": 11,
+        "steering_score": -1.6901906728744507
+    },
+    {
+        "position": -2,
+        "layer": 7,
+        "steering_score": -1.6931556463241577
+    },
+    {
+        "position": -4,
+        "layer": 20,
+        "steering_score": -1.6936354637145996
+    },
+    {
+        "position": -2,
+        "layer": 11,
+        "steering_score": -1.6947643756866455
+    },
+    {
+        "position": -5,
+        "layer": 31,
+        "steering_score": -1.7056901454925537
+    },
+    {
+        "position": -5,
+        "layer": 10,
+        "steering_score": -1.7066696882247925
+    },
+    {
+        "position": -3,
+        "layer": 7,
+        "steering_score": -1.7087730169296265
+    },
+    {
+        "position": -1,
+        "layer": 9,
+        "steering_score": -1.726982593536377
+    },
+    {
+        "position": -4,
+        "layer": 9,
+        "steering_score": -1.7436050176620483
+    },
+    {
+        "position": -5,
+        "layer": 7,
+        "steering_score": -1.7507784366607666
+    },
+    {
+        "position": -2,
+        "layer": 16,
+        "steering_score": -1.7607156038284302
+    },
+    {
+        "position": -1,
+        "layer": 7,
+        "steering_score": -1.7780686616897583
+    },
+    {
+        "position": -3,
+        "layer": 42,
+        "steering_score": -1.789239764213562
+    },
+    {
+        "position": -5,
+        "layer": 8,
+        "steering_score": -1.7919131517410278
+    },
+    {
+        "position": -4,
+        "layer": 8,
+        "steering_score": -1.792785882949829
+    },
+    {
+        "position": -4,
+        "layer": 13,
+        "steering_score": -1.794796109199524
+    },
+    {
+        "position": -5,
+        "layer": 9,
+        "steering_score": -1.800344705581665
+    },
+    {
+        "position": -4,
+        "layer": 7,
+        "steering_score": -1.805737018585205
+    },
+    {
+        "position": -2,
+        "layer": 17,
+        "steering_score": -1.806073546409607
+    },
+    {
+        "position": -2,
+        "layer": 18,
+        "steering_score": -1.8072075843811035
+    },
+    {
+        "position": -5,
+        "layer": 15,
+        "steering_score": -1.8085585832595825
+    },
+    {
+        "position": -5,
+        "layer": 30,
+        "steering_score": -1.8086743354797363
+    },
+    {
+        "position": -2,
+        "layer": 4,
+        "steering_score": -1.8119797706604004
+    },
+    {
+        "position": -1,
+        "layer": 8,
+        "steering_score": -1.8150930404663086
+    },
+    {
+        "position": -2,
+        "layer": 6,
+        "steering_score": -1.8174631595611572
+    },
+    {
+        "position": -5,
+        "layer": 6,
+        "steering_score": -1.8175853490829468
+    },
+    {
+        "position": -4,
+        "layer": 6,
+        "steering_score": -1.8208715915679932
+    },
+    {
+        "position": -1,
+        "layer": 3,
+        "steering_score": -1.8375184535980225
+    },
+    {
+        "position": -1,
+        "layer": 2,
+        "steering_score": -1.8383725881576538
+    },
+    {
+        "position": -2,
+        "layer": 2,
+        "steering_score": -1.8455092906951904
+    },
+    {
+        "position": -2,
+        "layer": 10,
+        "steering_score": -1.8455724716186523
+    },
+    {
+        "position": -4,
+        "layer": 3,
+        "steering_score": -1.8458483219146729
+    },
+    {
+        "position": -3,
+        "layer": 5,
+        "steering_score": -1.8474066257476807
+    },
+    {
+        "position": -2,
+        "layer": 8,
+        "steering_score": -1.8502345085144043
+    },
+    {
+        "position": -1,
+        "layer": 10,
+        "steering_score": -1.8507955074310303
+    },
+    {
+        "position": -5,
+        "layer": 5,
+        "steering_score": -1.854695439338684
+    },
+    {
+        "position": -5,
+        "layer": 3,
+        "steering_score": -1.8560030460357666
+    },
+    {
+        "position": -2,
+        "layer": 1,
+        "steering_score": -1.8572344779968262
+    },
+    {
+        "position": -2,
+        "layer": 5,
+        "steering_score": -1.8575843572616577
+    },
+    {
+        "position": -2,
+        "layer": 9,
+        "steering_score": -1.8603042364120483
+    },
+    {
+        "position": -1,
+        "layer": 1,
+        "steering_score": -1.8616946935653687
+    },
+    {
+        "position": -2,
+        "layer": 22,
+        "steering_score": -1.8638769388198853
+    },
+    {
+        "position": -4,
+        "layer": 2,
+        "steering_score": -1.8646436929702759
+    },
+    {
+        "position": -5,
+        "layer": 4,
+        "steering_score": -1.8668187856674194
+    },
+    {
+        "position": -4,
+        "layer": 5,
+        "steering_score": -1.8687949180603027
+    },
+    {
+        "position": -2,
+        "layer": 3,
+        "steering_score": -1.8691253662109375
+    },
+    {
+        "position": -1,
+        "layer": 5,
+        "steering_score": -1.8749476671218872
+    },
+    {
+        "position": -4,
+        "layer": 1,
+        "steering_score": -1.878456950187683
+    },
+    {
+        "position": -4,
+        "layer": 4,
+        "steering_score": -1.880820870399475
+    },
+    {
+        "position": -3,
+        "layer": 1,
+        "steering_score": -1.881346344947815
+    },
+    {
+        "position": -3,
+        "layer": 6,
+        "steering_score": -1.8850332498550415
+    },
+    {
+        "position": -1,
+        "layer": 4,
+        "steering_score": -1.891157627105713
+    },
+    {
+        "position": -3,
+        "layer": 3,
+        "steering_score": -1.8912051916122437
+    },
+    {
+        "position": -5,
+        "layer": 1,
+        "steering_score": -1.8977842330932617
+    },
+    {
+        "position": -3,
+        "layer": 45,
+        "steering_score": -1.8990215063095093
+    },
+    {
+        "position": -3,
+        "layer": 2,
+        "steering_score": -1.8998957872390747
+    },
+    {
+        "position": -4,
+        "layer": 12,
+        "steering_score": -1.902004361152649
+    },
+    {
+        "position": -5,
+        "layer": 14,
+        "steering_score": -1.904376745223999
+    },
+    {
+        "position": -4,
+        "layer": 10,
+        "steering_score": -1.9077467918395996
+    },
+    {
+        "position": -3,
+        "layer": 4,
+        "steering_score": -1.9110136032104492
+    },
+    {
+        "position": -5,
+        "layer": 16,
+        "steering_score": -1.9167855978012085
+    },
+    {
+        "position": -5,
+        "layer": 18,
+        "steering_score": -1.9273066520690918
+    },
+    {
+        "position": -5,
+        "layer": 2,
+        "steering_score": -1.9316134452819824
+    },
+    {
+        "position": -1,
+        "layer": 17,
+        "steering_score": -1.9502123594284058
+    },
+    {
+        "position": -5,
+        "layer": 42,
+        "steering_score": -1.952604055404663
+    },
+    {
+        "position": -5,
+        "layer": 0,
+        "steering_score": -1.9544408321380615
+    },
+    {
+        "position": -4,
+        "layer": 0,
+        "steering_score": -1.9544408321380615
+    },
+    {
+        "position": -3,
+        "layer": 0,
+        "steering_score": -1.9544408321380615
+    },
+    {
+        "position": -2,
+        "layer": 0,
+        "steering_score": -1.9544408321380615
+    },
+    {
+        "position": -1,
+        "layer": 0,
+        "steering_score": -1.9544408321380615
+    },
+    {
+        "position": -1,
+        "layer": 14,
+        "steering_score": -1.9580334424972534
+    },
+    {
+        "position": -4,
+        "layer": 16,
+        "steering_score": -1.9712799787521362
+    },
+    {
+        "position": -1,
+        "layer": 6,
+        "steering_score": -1.9764715433120728
+    },
+    {
+        "position": -3,
+        "layer": 30,
+        "steering_score": -1.9783720970153809
+    },
+    {
+        "position": -4,
+        "layer": 14,
+        "steering_score": -2.025219678878784
+    },
+    {
+        "position": -5,
+        "layer": 41,
+        "steering_score": -2.0345962047576904
+    },
+    {
+        "position": -4,
+        "layer": 15,
+        "steering_score": -2.041846513748169
+    },
+    {
+        "position": -3,
+        "layer": 39,
+        "steering_score": -2.05283522605896
+    },
+    {
+        "position": -3,
+        "layer": 40,
+        "steering_score": -2.1047606468200684
+    },
+    {
+        "position": -5,
+        "layer": 45,
+        "steering_score": -2.111818552017212
+    },
+    {
+        "position": -5,
+        "layer": 44,
+        "steering_score": -2.1230130195617676
+    },
+    {
+        "position": -3,
+        "layer": 41,
+        "steering_score": -2.142183542251587
+    },
+    {
+        "position": -5,
+        "layer": 17,
+        "steering_score": -2.156531810760498
+    },
+    {
+        "position": -1,
+        "layer": 16,
+        "steering_score": -2.1961162090301514
+    },
+    {
+        "position": -5,
+        "layer": 43,
+        "steering_score": -2.1987500190734863
+    },
+    {
+        "position": -3,
+        "layer": 29,
+        "steering_score": -2.203536033630371
+    },
+    {
+        "position": -5,
+        "layer": 38,
+        "steering_score": -2.2085602283477783
+    },
+    {
+        "position": -5,
+        "layer": 36,
+        "steering_score": -2.2577083110809326
+    },
+    {
+        "position": -3,
+        "layer": 36,
+        "steering_score": -2.274494171142578
+    },
+    {
+        "position": -3,
+        "layer": 38,
+        "steering_score": -2.373701810836792
+    },
+    {
+        "position": -5,
+        "layer": 39,
+        "steering_score": -2.3874685764312744
+    },
+    {
+        "position": -3,
+        "layer": 37,
+        "steering_score": -2.391481399536133
+    },
+    {
+        "position": -3,
+        "layer": 34,
+        "steering_score": -2.3928587436676025
+    },
+    {
+        "position": -5,
+        "layer": 40,
+        "steering_score": -2.4617040157318115
+    },
+    {
+        "position": -3,
+        "layer": 33,
+        "steering_score": -2.4748339653015137
+    },
+    {
+        "position": -3,
+        "layer": 35,
+        "steering_score": -2.60500168800354
+    },
+    {
+        "position": -5,
+        "layer": 37,
+        "steering_score": -2.6423046588897705
+    }
+]

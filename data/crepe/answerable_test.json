@@ -1,0 +1,1802 @@
+[
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a mobile phone \"try\" to find a signal? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: if (most of) our cells turn over completely, why do skin imperfections stick around? Why don\u2019t things like enlarged pores and scars reset? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What does TCXO stand for and what does it have to do with audio DAC\u2019s or amps? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If computers only read 1s and 0s, then isn't downloading anything online just creating instructions? Like isn't everything a computer can do already inside of it? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Stephen Hawking was an ardent supporter of the many-universes interpretation. I always figured it was mostly theoretical and not backed by science (please forgive me I\u2019m a novice in this field). How can we actually explain that such a phenomenon actually exists using scientific evidence? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how do chameleons change their colors? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is Uranium the last naturally occurring element and not Neptunium for example? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some brands of potato crisps say \"batch cooked\"? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do humans get that orgasmic sensation when they clean their ears with a q-tip? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If the female hemp plant contains THC, how do farmers make sure they don't grow it? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What\u2019s happening when computers \u201cfreeze\u201d? (Non internet related) \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How are lottery winnings received and taxed? Do you receive it full through one payment or are they spread annually taxed each year? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How high could a balloon float? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are some apples crunchy and some sandy? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does warm air rise? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does sand stick to everything even though it doesn't feel sticky? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how the planet's in our solar system formed \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it easier to stay on a bicycle that's in motion compared to one that isn't? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How come after sitting in a car all day during a road trip, you still feel physically tired when you reach a hotel, even if it\u2019s no where near to your bedtime \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: asking for a friend, can you explain as simple as possible what happens when you sit in a tank and hit a concrete wall that doesn't move. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do restaurants make the breading on their boneless wings so well but is never the same at home? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does nails of hands grow faster than nails on feet? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When they say \u201cget the air out\u201dof a bag/container/whatever, what does that do and does it actually help keep things fresh? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How exactly does milk help get rid of the pain you recieve from eating very spicy foods? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is Shakespeare's work always studied in high school? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does stale popcorn taste different than fresh popcorn? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why are injuries caused by acid considered burns when it has different effects on human flesh from heat? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does mold react when it comes into contact with bleach? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are static and kinetic coefficients of friction different? Is it possible for a kinetic coefficient to be higher, and what about the materials involved makes the difference? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What causes fingers to readily leave fingerprints? How are they so easily found/recorded by police? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do USB cables/ sticks become faster? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a seed \"know\" which way is down or up to grow? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does the speed of sound change with altitude, and what are the fastest/slowest speeds possible? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is seemingly every book in existence a \"New York Times Bestseller\"? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it that when an escalator is not working, no matter how much I tell my brain that it is not moving my first few steps always feel a bit awkward. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When a clock is say, five minutes ahead of time and we reset it, why does it return to being five minutes ahead? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What are the consequences of Sinclair Broadcasting Group controlling so many stations? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When you have a cold/your nose is stuffed, and then suddenly it feels like an air bubble appears and clears your nose so you can breathe again. What's happening? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some businesses prefer to be paid in cash? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How exactly is inflation over time determined? How can someone say X dollars today was Y dollars in 1978? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: By what method does raw computer code get \"translated\" to the stuff we see on-screen? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How are fruit juice concentrates made? If juice comes from the fruits themselves how is it put into concentrated form? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are you supposed to pump your brakes when you are going to jump start a dead car? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why can liquid form that little brim above its container and not spill out? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What happens if someone loses a court case and owes money but isn't able to pay it? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How can it be proven that a piece of intellectual property belongs to its owner? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What's the difference between hard water & soft water? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do our bodies develop immunity to certain illnesses? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does everything sound loud at night? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does diet coke and Coke 0 have 0 calories? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do people yawn when they\u2019re bored? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does Earth's atmosphere not get sucked into the vacuum of space? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does bread have a thin layer of crust instead of a continuous gradient from most cooked to least? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do some drugs/chemicals impact the body (nearly) immediately? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do animals like pigs, horses, cows like to roll in mud? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What do zoos do with random local wildlife like pigeons, seagulls, rats, squirrels and raccoons? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do whales surface to exhale, and when do they inhale? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Can somebody explain the Semi-Conservative Mechanism of DNA Replication? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How come my nose hurts if I burp after drinking a carbonated beverage? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is prolong learning or extreme usage of brainpower, such as math, so mentally (And sometimes physically) exhausting? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If AC is a sine wave, how is the sine wave generated? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do mountains form in clumps/why are there 10 of 14 of the highest peak in one spot? (the Himalayas) \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a laser maintain its brightness wether it be pointed 2 feet away or 30? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do birds, like pigeons or crows, bob their heads when they walk? Why is that trait beneficial for them? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do scientific names use English/Latin pronunciation and characters when not all languages have a relationship to Latin \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does zeta(0) = 1/2? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does amazon purchase all of these different companies completely unrelated to online shopping like whole foods? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What happens to submarines during tsunamis? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What makes soy so versatile as the main constituent of many foods, from milk to kebab protein? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how did they discover tobacco? Like, did they just go around smoking plants until they found one they liked? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do our bodies generate heat and maintain warmth internally? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why has it become virtually impossible for politicians on either side to work across party lines? Why has \"bipartisan\" become such a dirty word? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do they get fruits and nuts to stay suspended in ice cream? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do people hack (cheat) in video games, and how can hacks be prevented? Why are so few games completely cheater-free? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do streaming services care so much about people with a family plan living under the same address? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does the arm get hairy while/after wearing an arm cast? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How exactly qubits ability of being in superposition (both 0 & 1) makes computational time millions times faster? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does hibernation work? Do they stay in the same position the entirety of winter? If so how do they recover so quickly and how is it different from sleep? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do kittens wiggle their ears while bottle-feeding? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What determines if a virus goes airborne? Why are some immediately airborne? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What aren't there term limits on Justices for the Supreme Court of the US like every other level of government? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How can you determine the difference in properties (hardness/toughness/ductility etc) of different steel microstructures? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does the middle of ice get all milky/cloudy? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does copyright on music work? What about remixes? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If the world is round and rotates, how do we appear to be standing upright at all times? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can't humans hold themselves perfectly still without twitching, hence the difficulty of the game \"operation\"? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does root mean squared not equal 0? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do people in sky scrapers evacuate during a fire? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How is the average lifespan decided for newborns? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how competitive eaters (Like Matt Stonie), can eat so much in one sitting, where does it all go? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why are plastics straws worse than plastic cups? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do people go about measuring the heights of mountains? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do psychedelic mushrooms almost ubiquitously cause people to experience a deeper connection with nature? Why is this phenomenon not reported as often with use of other psychedelics like LSD? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What's the difference between copyright and trademark symbols? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do tray tables and seats have to be set back while planes are taking off and landing? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do so many Islamic countries have the moon and a star in their flag? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does our body learn and improve in Cycling, skating, skiing, etc. ? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does entropy always go up? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: At the end of Wind River a title card states that missing-persons statistics are kept for every demographic group except for Native American women, whose numbers remain unknown. Can someone explain why? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: We often read about how hackers stole some number of terabytes of data. How do forensic analysts know how much was taken? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does glass look green/ opaque if you look at it through its edge? Why does occur when multiple panes of glass overlap too? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do films always have two credit sequences at the end? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do water pipes sound like they're going to explode when turned back on after a couple hours of being completely shut off? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What makes nitrous oxide a better propellant gas for whipped cream than molecular nitrogen? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do movies, TV Series etc get to torrents? Who actually pirates them, upload and how? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What is in Almond Milk that causes it to go bad after 7-10 days? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does crude oil price affect the world economy so much? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do videogame companies copy-protect their games (physical discs)? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If light slows down in water, how does it speed back up again when it comes out? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Where do last names come from? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why haven\u2019t we been to the moon again since 1969? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why large store chains closing down? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does a phone camera flash twice before actually taking the picture? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does stainless steel remove smell of garlic off your hands? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Does the a large store need the same amount of employees as multiple smaller stores to sell the same amount of product? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some pipes make strange noises or vibrate violently when the water is turned on? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is propane in liquid form in a tank, but gas form in a bottle or bucket? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why we get sweaty palms in situations that you may need exactly the opposite? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how do radio stations know how many people are listening in on them? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do stealth planes work? What makes them stealthy? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Who in Luxury branded clothing companies determine the price of their items? And what is the process like? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What causes body parts to grow in specific shapes? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do humans smile to convey happiness? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does lightning striking the ground affect people in a pool or body of water? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If smoking cigarettes makes your lungs weaker, then why does it become easier to smoke overtime? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can my phone with a 4 watt SoC play back 1440p video without even getting warm to the touch while my laptop with a much more powerful GPU has to ramp up it's fans and make tons of heat to accomplish the same task. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why don\u2019t we make coffee like we do tea, by seeping the grounds in a bag? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do salty foods measure sodium content, but not chlorine content? Why are the cations in salts generally listed but anions aren't? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why in a lot of movies that contain aliens, humanity is always weaker, but then they (normally) end up defeating them? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does eating something sweet make other less sweeter things taste not sweet? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If I repeatedly fail at something which needs precision (like scoring a goal in soccer), will I get better the more I try or will I always be bad due to muscle memory kicking in? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do TV/Radio stations know how many viewers/listeners they have at specific times? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it that things like mouthwash and pill bottles need childproof caps, but things like laundry detergent and alcohol do not? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does fiber reduce cholesterol & how does saturated/trans fat increase cholesterol ? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does hot water seem more effective when cleaning things than cold water? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do panic attacks cause dizziness/lightheadedness and nausea? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: since AIDS is no longer considered a \u201chomosexual disease\u201d why do blood banks still ask if a man has had sexual contact with another man, on the questionnaire? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What exactly does a director do in the filming process? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What happens on a microscopic level that makes washing our hands for 20 seconds the best bet to rid our hands of germs? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How come snot is solid when the weather is warm, but becomes fluid when the weather is cold. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does all medicine, regardless of its flavor, taste awful? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do the plates for my bullet resistant vest have an expiration, and need to be replaced every 5 years? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are many Japanese companies active in so many different, unrelated industries? Like Yamaha, which makes musical instruments and motorcycles \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Where does that weird sadness come from after some orgasms? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do our face or ear turns red when we are embarrassed? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What's the difference between a router firewall and your computer's personal firewall? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What happens to the seddiments when they reach the bottom of the ocean? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Does Gothic (as in clothing, rock, architecture, fonts etc.) come from the Gothic Tribes? Why/Why not? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does soda fizz and expand when it\u2019s shaken? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does your body increase your temperature when you are ill? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do scientists discover the specific functions of tiny structures such as cytokines or neurotransmitters? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how are people able to track hackers ie: where they are, who they are, etc \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do plastic bottle labels say, \u201cdo not refill?\u201d \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When I soak a plaster container that has been stained with red sauce in hydrogen peroxide, the stain disappears. But the peroxide stays clear. Where does the color go? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How are rifles aimed properly when the scope is few inches above the barrel head? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What is happening when my Wi-Fi/Internet just stops working for 10 minutes, and then acts like it did nothing wrong after? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do periods hurt so much? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do sites like 4chan figure out who an individual is based on vague photos/background imagery? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Where do all the bacteria that we need in our body come from? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What information does Newton's first law of motion contain that isn't already contained in Newton's second law? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How can people suddenly get a heritable disease/illness when no one in the family has it? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What makes a piece of glass/mirror shatter into more pieces than another? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does the government catch people who use or make counterfeit money? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Do essential oils have any effect on health? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do humans have different voices? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Honey in tea makes the resonance of the cup lower? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Is the probability of flipping a coin and getting the same result as last time 1/4? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do scientists calculate the approximate surface area, mass, and weight of planets? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How is nuclear waste sent to disposal sites? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If things expand when they're hot, than why does water expand when frozen? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Can heat-seeking technology locate a person in 40 degree celcius heat? If so, how? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What's the difference between symptoms of the common cold, and symptoms of the inflammation my body is producing to fight the virus attempting to cause the common cold? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: ELIf: What exactly happens when a company liquidates their assets \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What determines whether you owe or are owed taxes at the end of the year? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What causes people to become less flexible? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does the ground look wet when it\u2019s hot, from certain angles? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Can you reduce a problem that is both in np and not np complete to np hard? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What stops a website from using my credit card and taking all my money? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does popcorn seem lighter after it's popped? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do potholes form in a road, and why is tar used to fill them instead of asphalt? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What is the difference between lux, lumens, and candela \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Do you get electrocuted if you touch overhead electrical wires? Why? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What's the difference between Chinese Taipei & Taiwan (if any)? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are handshakes used in meet and greets or why are they a sign of friendship? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What causes a company's stocks to go up or down every day? How is it related to a stock exchange? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can't we bring back to life a dead body? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do healthy foods at the stores nutrition labels always seem devoid of nutrition? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a modern phone determine what orientation it is? (vertical and horizontal) \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can't college players accept contributions but politicians can? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a wax cylinder phonograph produce sound? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does yawning make your eyes water? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how we can create and maintain a vaccum when drinking through a straw or from a cup, even while breathing? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do people get acne when they have stress? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do clothes and towels smell bad when they 're left to dry crumpled up, but fine when hung or dried in a dryer? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do chess pieces look like they do? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Increased hesrt rate from heavy excercise builds muscle in the heart and decreases resting HR, leads to more blood being moved per pump, and overall increases hesrt health, why does is increased heart rate from caffine or other stimulants deteriorate heart health? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are most metals other than gold and copper, silver in color? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How come when you look at lights (I.e. phone, pc, tv) before you go to sleep it takes longer for you to fall asleep? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is giving birth seemingly so much more painful for humans than any other animal? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why are 1,080 vertical pixels considered to be HD? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do most foods, drinks etc have to be refrigerated AFTER ONE use? What happens to the contents after just one use? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: In osmosis: how water molecules know where is the place of higher solute concentration and move there? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does bacon cook to a brown/red while other pork cuts cook to white? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: TV broadcast cameras used tubes before the advent of digital photography to capture and transmit the images. How did those work? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why/how are bacteria adapting and becoming resistant to antibiotics? What can be done about it? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How many times do you need to flick a light switch on and off before its more efficient to leave the light on for an hour? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How can a single USB port can handle information from many devices? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does toothpaste stick to the sink so well but easily falls off my toothbrush? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does time get added to the end of soccer matches rather than stopping the clock during game stoppages? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does ecstasy/MDMA make you feel loving and dig deep into emotions? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do distressing events or trauma lead to PTSD and other disorders? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do flash drives keep data stored when they have no power \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does one first see improvement the next day (or after a longer break) in any kind of sports, games, education etc. and not meanwhile? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can't we turn DisplayOut ports on a laptop to DisplayIn ports? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does the body generate heat? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do people yawn when they see someone else yawn? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do our teeth chatter when its cold \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does the immune systems adapt to venom? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does mostly the top of our feet hurt when our feet land on something hard? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do similar potato products such as potato waffles, smiley faces, chips etc taste different? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When companies report the current sales of an item, where do they get the figures from? Is it from how much they sell to their retailers/distributors? Or do they have their retailers report back how much they sold? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If there is a finite amount of water on Earth, would the Biblical global flood be possible? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What happens to our brain when we concentrate? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do you get all achy when you're sick with the flu? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a pull-start motor operate such that it sometimes needs many pulls to start it? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do we discover new planets thousands of light years away and be able to understand their properties such as their mass, radius, temperature from such a great distance? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are movies available for purchase much faster to the public now vs recent years? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: So there are animals, plants and fungi. What's the difference between fungi and the other two? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When I\u2019m at work, at a pool. I look into the water and the black lines that mark the lanes will have what appears to be a blue halo on one side and an orange halo on the other, why does this happen? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why don\u2019t tornadoes develop in extremely urban areas with skyscrapers such as New York City or Chicago? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: In American football, a popular adage is the defense is \u201cgetting tired out there\u201d the longer they stay on the field, which will make them play poorly. Why is this not true for the offense as well, where production drops the longer they are on the field? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do sweets e.g haribos go hard after being open for a while \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how come people sometimes shake their legs or bounce them up and down repetitively when when they are sitting? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Can anyone learn how to sing? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some say that systemd is against the \"Unix philosophy\"? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do you feel incredibly cold when your body is actually burning hot when you are sick and vice versa? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How can water do work as it freezes? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does swallowing a piece of watermelon whole not relieve my thirst like chewing it before swallowing would? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Do stretching still hurt when you're flexible? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it easier to climb on a Stair Master versus climbing up normal everyday stairs? (at work,school,home,etc.) \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What are the main tasks of diplomats? How can I become one? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are baker's hats shaped the way they are? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are tax havens mostly islands or small countries? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Was there a time when Greeks worshipped the Titans instead of the Gods? Or did the entire narrative come about after worship of the pantheon of gods was already established? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does the skull and jawbone adjust their tooth sockets' locations while having braces? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: The use of Sodium Fluoride in Optics or Physics in a Cerenkov Radiator? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do PDFs get so much data into a such a small file? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does Latin America have mestizos while places like the US/Canada don't have much? Why haven't white settlers in other places intermixed heavily with the natives like Latin America? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is urinating not affected by spicy food? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does cancer end up killing a person? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are the words \"Yeah\" and \"Oh\" always in pop songs and said for so long? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Where does the UK's military budget come from, and is the tax we pay involved at all? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How are electric cars heated? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Does nutritional research vary so much because our species is evolving to counteract our diets or do we just know so little about nutrition? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Is it possible to predict the chemical properties of compounds from the properties of the singular elements they are formed with? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do colors disappear when you zoom in with a microscope? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do lights get brighter before they die? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How are street address numbers decided upon, if they apparently don't refer to an agreed upon distance unit? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is hybrid and CNG technology more common in buses over consumer cars? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How come people sometimes need to learn how to walk again after having a head injury? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do employers even add the \"Attach Resume\" button if you're required to enter it all in anyways? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why when making a new product (food most of the times) advertised as limited edition companies sell it for very, very long time and it becomes available permanently? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do girls (generally) have neater and more appealing handwriting than those of boys? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does opening your eyes under water affect your eyes? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do you have to put premium gasoline in certain vehicles? Will it really harm them if you put in regular? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how a black man and a white man with all the same size body parts have distinct voices where you can tell their nationalities apart before even seeing them \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do people who make less than 10,000 dollars a year able to get a 6,000 dollar (or more) tax return? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does rendering 3D objects cost money in animated movies? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it so hard to get some kids/teens to adopt hygiene habits? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do elements react to give compounds with completely different properties? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is the exact place of the Kaaba so important? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What is the legal basis for fines from HOAs, and where does the money go? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What causes people to pass out when enduring harsh pain? (Getting punched, slapped, hit, etc) \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Did the Greeks look at the gods as actual beings or more like representations of different elements of the world? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why people use . instead of , as thousands separator? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does handedness matter for scissors? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does it seem like every movie is produced by both a large well known company and a small, never heard from again company? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: In school we learnt that honey doesn't spoil. So how is it that packaged honey, even those that claim to be \"pure\", have an expiration date? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How can flies and other insects stay vertical on windows? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do the metal parts that plug into wall outlets have holes in them? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When you're staring at a computer screen, how can your brain distinguish between the image on the screen and the reflection on the screen. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a BIOS update 'brick' hardware? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are people more ready to beilive in the supernatural when alone and when its dark? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a Javelin Rocket launcher track moving targets. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How come we get runny nose when we eat spicy foods? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does fast food taste really good but taste terrible a few hours later \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can't we recollect memories from what we did when we were babies? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When something enters the sea does it make the seas level rise? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does alcohol affect you quickly when ingested but marijuana affects you slowly when ingested? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does the human body produce electricity? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What exactly causes the feeling of being \"dizzy\" when getting up quickly? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do lines appear in the picture when you photograph a computer screen? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does an inhaler work, how is the relief so quick. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How did the United States become so powerful, in such a short amount of time? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how the PS4 can run games like RDR2 Spider-Man and God of war despite being 5 years old. How can it run it so smoothly? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do most lamps turn on by turning a knob instead of pushing a button \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When someone has a heart attack while eating, lets say, a triple bypass burger, is it due to the food being eaten at that moment? Or is it just prior health issues with unlucky timing? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How did suffixes for differing nationalities come to be named as such (-ese, -ean, -ish) \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What kind of service or \"package\" does a Tier 3/Last Mile ISP get from a Tier 1/Infrastructure ISP \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: The air that's inside the bubbles of bubble-wrap made overseas: is it the exact air that was trapped during its manufacture... literally air from China, or wherever? Or, does it somehow get replaced with \"other\" air when in transit? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Does fighting to stay alive after being shot actually increase your chances of staying alive? If so, what happens to your body when this happens? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do people not jump significantly higher when running and jumping off of two feet vs running and jumping off of one foot? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does Drano work? Drain cleaners that unclog sinks and bathtubs. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How did Phineas gage survive? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: So in the original Planet of the Apes film, were audiences legitimately lead to believe that the whole movie was taking place on another planet, only to have the ending reveal it was in fact Earth? Or was it that they knew it was Earth, but the characters in the film didn't? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does being cold make pain more intense? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do vehicles jerk backwards when they come to a full stop? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What is the Speed of a Photon as it Gets Reflected by a Mirror? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why when I'm in total darkness/dim light do I see colors? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do doctors amputate limbs? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What causes the switch process in bipolar disorder? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why hasn't the voice quality of phone calls improved? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why Blood turns brown after it dries? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do finger nails grow at a much higher rate than toe nails? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can't files (documents, pictures, presentations etc.) open in some program be moved to a new folder while they're open? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does facial recognition recognize me when my face is bruised/swollen? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why some computer programs output text like \"1 connection(s)\" even though they clearly know the count? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How will the many tiny amounts of cryptocurrencies left in users wallets after transactions affect the respective currencies over time? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do public schools (and many offices) exclusively use Internet Explorer? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What makes a painting worth so much? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a company know that a hack had occurred? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does fever work as a self-regulatory mechanism of the body? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: the night sky is typically lit by millions of stars. Why are none visible when watching the Starman stream? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some animals like to keep particularly clean, whilst others are happy being dirty? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why is it that when we put cold feet in hot water it feels like it's burning more, but when we put hot feet in cold water it's relieving? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do most screens and other color pickers use red, blue, green instead of red, blue, yellow? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How to compare living cost between city/country? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do vending/cash machines know what type of dollar bill that was just inserted? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a massive site like flickr transfer everything to new owners? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What makes cyanide so lethal? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do a persons contact lens stay centered on the cornea at all times? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why didn't the US govt release the picture of dead Osama Bin Laden despite releasing dead pictures of his other members? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do people snore when they're sleeping but not while they're awake? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do hotplates get red when they are hot? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do smart phones dissipate the heat created by the processor? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do hands-free water fountains work? (Give you water without needing touched) \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do viruses know what to do despite not being alive? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why did Britain and France declared war on Germany over the invasion of Poland, but not the USSR? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Do clouds muffle the sound of thunder (or other sounds)? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How come we get super sleepy in a hot car, but can't fall asleep if our bedrooms are hot? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does valproic acid stabilize mood? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are billet parts structurally stronger than cast parts? And why are forged parts stronger than both? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How to know all the instruments used in a song? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Do genetics change by each generation? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What series of chemicals/surgeries facilitated Michael Jackson\u2019s bizarre physical transformation, and why don\u2019t we see more people who look like he did? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do scientists \"program\" stem cells in labor to act in a certain way? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How can old games be put into resolutions like 4K and 1080p or maxed at 60fps? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how are mountains measured? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does testosterone make you stronger? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does everyone in Reddit use Imgur so much to post images? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does being really nervous cause an upset stomach and diarrhoea? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: is it possible for companies like 23 & me and ancestry DNA to keep your dna on file and potentially test on it? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: in terms of video games, what exactly does AAA mean? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How can I cool a swimming pool from 83 degrees to 73 degrees? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do (some) humans not want to eat when it\u2019s so hot outside? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How come when you find someone you truely care about, and they don't feel the same way that it hurts \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why is it better to get some diseases when you\u2019re a child (chicken pox for instance) because they are less severe in childhood than adulthood? Especially when you consider that children have weaker immune systems than adults. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why some cities with horrible rush hour traffic have no traffic on the weekends and others are congested all the time? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do the things that dont orbit in the same direction as the majority, orbit that way? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do ancient Roman and Grecian sculptures have small penises? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Once a cyst or abcess is removed from the body, if left alone do they continue to grow? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do computers make that electric cracking sound when loading something? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some jackets have double zippers? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does hand sanitizer do a better job at removing temporary tattoos than soap and water? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How did they print pictures in early days of newspaper ? I recently watched the movie The Post and the entire time I was wondering how they printed pictures with the movable metal type ? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: I am from germany, what can I or others from the EU do against Article 13+11? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can't astronomers say with certainty if a specific asteroid will or won't strike the earth? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: is the brain wet or dry? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How is the United States paying off its debt to China? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What is that weird thing that you see in your eyes after looking at a bright light? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How Do The Concept Of Calories And Metabolism Both Affect Weight? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does heavy rain come down in \"sheets\"? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are police lights sometimes only visible from behind the vehicle? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it easier to learn and remember 'unimportant' information without any effort, like names and locations of an entire map in a PC game, but difficult to learn and remember important information like schoolwork even while putting in effort to learn? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If someone has a limb amputated, what causes them to feel like it's still there after it's gone? ie. ghost limbs? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it that when it is really windy outside, the water in the toilet moves. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do we know other planets cross sections? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When people have fluid in their lungs why isnt possible to just use a needle to remove it over and over? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does your cars heat work? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why when you pour water into a pot with hot oil it reacts like that? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can some feelings, like being hungry or tired, get progressively worse but after enough time has passed without eating or sleeping your body no longer feels as bad as it did before? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do Mountains affect the weather? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are states like Indiana considered to be in the midwest, while clearly being on the eastern side of the United States? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does menthol temporarily relieve coughing? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How Are Radioactive Rocks Formed? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can\u2019t you enter/exit the Earth\u2019s atmosphere slowly? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why, on TV coverage, do NFL punts and golf shots look like they\u2019ve been shanked terribly but end up being fine. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What makes gems (diamonds, in particular) so valuable? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does food poisoning take up to 12 hours rather than immediately? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why was Timothy McVeigh\u2019s trial and subsequent execution so fast, especially compared to other popular trials of the 90\u2019s until now? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some overweight people sweat more than those who aren\u2019t? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does a red sky at night mean sailor\u2019s delight, while a red sky in morning means sailors take warning? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When an online video dips in resolution why doesn't the audio lose quality as well? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When cooking risotto, the bouillon has to be added in parts, why? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What makes succulents' roots more predisposed to rotting if waterlogged than other plants? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is hot food described as \"piping hot\"? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does the wheel on a pirate ship control the ship? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do soft and fuzzy blankets become less soft and fuzzy after washing them? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When a website asks you to prove you are not a robot by identifying storefronts/busses/streetlights/etc, how is it determining you are not a robot? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: With gold prices relatively much higher now than in the past compared to the cost of living, why are there very few individual gold panning/mining operations in e.g. California like the gold rush in the past? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How come there are like 4000+ species of cockroaches, but as far as I know there's only one type of human? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does a hot shower make a hangover feel more bearable, and why does it kick right back in when you step out of it? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do leave change colour in autumn? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do computers have a discrete GPU instead of one very powerful CPU which performs all the necessary calculations? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do scientists measure the temperature of a distant celestial object without physically going there? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is the incubation time of an HIV infection until the development of AIDS so long? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does spit get stringy after using mouthwash? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When frozen water cracks the bottle that was holding it > did the ice do work and if so where does the energy come from? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it, when travelling at high speeds, that I lose mobile phone reception \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why Did the SR-71 Replace the A-12? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how do we sequence DNA? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How much energy can wind power stations produce? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do your muscles hurt when you've got a fever? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What is the point of the immigration forms many countries make you fill out when traveling as a tourist? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some countries call 911 while others call 999, 000, etc? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is ADD / ADHD treated with stimulants instead of depressants? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does LSD make you hallucinate? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Whats the water situation in Cape Town? Was this expected? Will this happen to other cities? Should other countries be worried? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do Dryer Sheets work so well at negating Static Cling? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How are drug companies able to patent products whose mechanism of action is unknown? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How blood pressure medication works like Lisinopril? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does it feel hotter when the sun is beating on me, but the temperature on the thermometer remains the same? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If two perfect singers sing the same song and can sing the same octaves and notes, how do those two singing voices still sound different? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do obsessed fans develop the desire to kill celebrities or the object of their obsession and idolization? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do different hose lengths affect water flow \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do planes avoid collisions above the Atlantic where there is no radar? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does the electric company measure how much electricity you are using during different times of the day. (peak vs non peak hours) If they only read it once a month. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do large numbers before the decimal point get separated by commas in groups of 3, but numbers after the decimal do not? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When completing in luge, what exactly are the athletes doing to control themselves and maximize their speed? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it when we go outside when it is bright out and go back inside, you see everything in a yellow or blue \"filter?\" \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What is that weird tightness in the back of the jaw when eating tart foods? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do semitruck drivers know what route to take to avoid overpasses that are too low for the truck? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How many sides can a shape have before it becomes a circle and does the concept of geometry exist on the very small scale? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do bald people seem to have shiny heads \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How did early scientists take electrons out of an element in order to shoot them in experiments? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does it feel like you\u2019re having a mini heart attack when something suddenly scares you? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does the military (any military) do air-to-air weapons testing? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does military body armour disperse the energy and momentum in a bullet to protect soldiers? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do pigeons (and other birds) move their head back and forth on every step they take? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How are 3D movies made? Are the movies also edited wearing 3D glasses? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does \u2018sharpening\u2019 a knife/razor on leather make it sharper? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is there no longer a satellite delay on television interviews? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do doctors order blood tests before low risk surgeries? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What does the CDC mean when it says 'effectively no risk of transmission'? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are cable and internet company options in the US so limited? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do you get dizzy if you stand up too fast? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do some tend to feel hotter than others in the same climatic conditions? Others also claim to feel colder. How does this work when our healthy body temperature is all the same? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why are all pairs of double A batteries inserted in opposite directions in electronic devices? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does a guitar have harmonics only on certain parts of the fretboard/string? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Once scratched, why are Teflon pots unusable? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Is the chance of getting food poisoning correlated with the amount of bad food eaten? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do a lot of \"gaming chairs\" have a bucket seat design to them? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do humans have such a bad grasp of time? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why are mens feelings and mental health not taken more seriously in an abortion scenario? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How scents are derived from different woods and used in fragrances \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: what is the difference between genuinely dark and edgy? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do stock traders determine how the price of a stock would fluctuate in the course of a day? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: When exhaling underwater, why does the air go up in loads of smaller bubbles rather than one big bubble? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do Psychics fool people so convincingly? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why real flashbangs don't effect in the way we see in video-games? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why does water taste different after brewing frozen and melted? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do lips still sync up in slow motion music videos? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Do taller people have a slower reaction time than short or average height people due to longer nerves? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do Search and Rescue teams looking for lost hikers ensure they don't get lost themselves? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: A couple hosting Nintendo ROMs was just sued by Nintendo. How does google avoid lawsuits for the same content being uploaded to Google Drive? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: DNA decides how life is made, but what decides how DNA is made? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: who are the high risk people for whom Truvada is marketed? If it isn't for all people, who is considered high risk? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does it work, when you flip the connector to the outlet 180\u00b0, it still works even when + and - are flipped? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do people develop different laughs? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do burns on the tongue heal better than on the skin or other parts of the body? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How were/are bounty amounts determined? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How are firefighters able to identify the cause of a fire after its end? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How did the tradition of circumcision in various religions/cultures start? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are certain elements bad for humans but when combined together arent so harmful? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are so trees susceptible to lightning strikes? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why depressed people feel like there is a \"curtain\" between them and reality? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do devices perform poorly when they're working with an unstable internet connection? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does it become increasingly difficult to learn languages as you get older? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What's that sudden pinch people sometimes feel out of nowhere at a random part of their body? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how have Albert Einstein\u2019s theories contributed to modern technology like GPS? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do ghostwriters get reputation? How do they prove their ownership on works when getting employed? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does old injuries hurt when there's bad weather? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does California seem to have so many more bans and warnings that other states don't? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why can our eyes only focus on one thing at a time? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What makes dinosaurs different from other reptiles? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it so difficult to fake a convincing sneeze? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do spacecraft re-enter the earth\u2019s atmosphere so quickly? Why can\u2019t they just gently descend? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do probiotic supplements need to be taken daily? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does traffic happen if there\u2019s no accidents or anything to cause it? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does the consumption of certain food causes our excretory substances (e.g. urine) to smell? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If an oven and bulb are connected in parallel, why is that the oven get more current? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is 1066 and the Norman Invasion so significant? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is a tattoo artist's stencil always purple? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does breathing in and out slowly help to calm our nerves? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do Ocean waves get more rough during a storm? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What are the floating light things if you look at a bright light or press on your eyes hard enough? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: what\u2019s in a doggy treat that makes it so much more desirable than normal food? Why not make doggy food the same way? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: I was looking at the Yellow Asian Pears today at the grocery store and noticed how they look a lot like Apples. Which brings me to this question... What makes an apple an apple and a pear a pear...? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why do beets retain their purple colour after passing through a body, but red wine doesn't? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If water is able to smooth rocks into pebbles over centuries, how come sand at a beach is still rough in shape? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does somebody survive a jump from 11 meters into a pool of 30cm? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do awesome books come out in May? Coincidence or planned? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How come when we touch something hot, it takes a few seconds to realize its full hotness? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What actually happens when we recall music or sound? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why when going on a low carb diet I start to crave carbs uncontrollably? Is it like a carbohydrate withdrawal? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does green Jewellery stains occur? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a gas fridge keep things cold by making heat? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does our sense of taste become dull when we get sick? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does a phone or laptop measure the percentage charge of its battery? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How exactly did the North Sentinelese migrate to their island from Africa? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Does eating sweet food (or other food) while playing computer games or watching videos count as a reward and promotes your brain to keep doing these activities? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: The advantages and disadvantages of a quad/multi-copter over a helicopter \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do the colors on your screen invert when you look at it from an off angle? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What happens to the muscles in your arm when you have elbow tendonitis (tennis elbow)? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some Asians only want crisp/new money bills? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How did the monarchy of England start? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How are neural signals routed through the body? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Prisoners being sentenced to \"five consecutive life sentences plus 20 years\" etc, why is it not just always referred to as life without parole? That is as long as anyone can spend in Prison. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How did old LPs go from mixed/negative reviews upon release to critical acclaim nowadays? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are Capybaras so well liked, even by other animals? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does the music when you're on hold sound so crappy/distorted? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: with how regularly electric toothbrushes get charged while wet, how is there never a short circuit? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How is genetic memory different from instinct? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What the weather may of been like during the time of Pangaea and why? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do your hands hurt when you slap water flat? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do graphics drivers push out updates so frequently? I don't *notice* anything different after an update, so what's happening under the hood? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How fish can produce light while being at the very bottom of the ocean \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: my parents live near a lake. It's frozen, cause winter in Canada, and it makes this weird low pitched hollow noise. What is it called and what causes it? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Is hotwiring a car still a thing? Is it as easy as it looks like in the movies? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is morning sun less harsh (for plants at least) than afternoon sun? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How does it work when you sync those buttons in your car to transponders (e.g. garage door openers)? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are dead bugs always up side down when you find them? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some farmers plant crops in big circles, rather than sticking with squares or rectangles? Aren't they losing ~21.5% of crop area? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How exactly Martin Shkerelli defrauded his investors. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why aren't books on formal logic (e.g. Principia Mathematica) taught to little kids? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do paper cuts hurt so bad? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do we determine that an animal is as intelligent as a X year old child? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do certain medications cause people to gain weight? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does a pan of saut\u00e9ing food release a lot of steam as soon as the heat is turned off? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why didn't POE (power-over-ethernet) replace the electric sockets \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What is the difference between the specification of a 7\u201d record and a 12\u201d record ( in newer, digital forms of music) \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: So many new design of firearms every year. What exactly are the improvements or goals of those new guns? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do broken bones still hurt if they aren't set back into place? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How can I have bluetooth on a car with no Bluetooth? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how do we know about different things on planets (water, air, heat, etc.)? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are full-time sit down jobs exhausting? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How did they edit people out of really old photos like Stalin did? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do children have a tendency to smile so much more than adults ? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do we know universe is approximately 14 billion years old? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do USB wall adapters convert large voltages in such a small cube? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do our bodies feel uncomfortably hot at temperatures less than our normal internal temperature? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are hot foods impossible for us to hold onto for long but if we put it in our mouths it doesn't feel as hot? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does our hearing get worse the older we get? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Differences Between Soft Water and Hard Water \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does placing certain adjectives in a different order sounds weird? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does vegetable oil work as a substitute for traditional fuel in a diesel engine? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does some lightning not strike the ground? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What are the cultural and social reasons to throw a sexual bachelor/bachelorette party? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do cigars smell completely different when you're the one smoking compared to when someone else is smoking? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Is a regular audio file with sounds larger than an audio file of the same lengths without sounds? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If someone were to fire an object into space that was attached to a rope, would the object float or be pulled down? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do artists pay taxes when they have world tours? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does the dentist make me take antibiotics (Clindamycin) before a cleaning? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do some street lights buzz? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do the hemispheres of the brain control the opposite side of the body? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What happens to the kinetic energy of a moving car? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do things like the waistband of sweatpants, the edges of fitted sheets, and the upper part of socks have such a hard time getting dry in the dryer? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why have Facebook, Instagram, and Twitter during the past year gone from chronological newsfeeds to \u201ccustomized\u201d newsfeeds? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why are sloths so slow? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do escalators maintain the same speed regardless of how many people are on them? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do so many people obsessively take selfies/videos/random pics when drunk? Is there an actual psychological reason? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: If a car\u2019s engine is flooded (filled with water) can it be fixed? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it that when I'm trying to hold it in, the urge to #1/#2 comes in waves and not continuously? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is the middle lane on the freeway considered the safest? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What exactly causes sudden, explosive bursts of productivity, usually cleaning-based? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do posts get archived? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: how do fish \"breathe\"? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are Jet Engine Planes smoother rides than Propeller Planes? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What Happens where Predators eat body parts of animals that contain large dose of Venom, like the head of a Snake or the tail of a Scorpion? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How it is possible to have a cellphone conversation with a person on the other side of the planet in near real time... \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do movie, TV, and video ratings differ? Why aren't they all just the same depending on the content? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does caffeine greatly affect certain people (energy bursts, withdrawal symptoms, etc.) but not others? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do countries simulate full-scale wars? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: What happens to light particles after they are observed? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How is water ( H2O ) able to dissapate heat so quickly and efficiently? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are most perfume ads bascically soft porn? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do bears go away after using bear spray? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do player trades in sports work? How much input does the player have in the decision to be traded? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: why does corn pop when cooked one way, and go soft when cooked another? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are almost all of the world\u2019s micronations in Europe? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it called the Heat \"Death\" Of The Universe? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do deep sea diving mammals such as seals and whales survive the changes in pressure? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How did the word \"bots\" become applied to live, paid, human trolls? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why is it more tiresome to climb up stairs than walk the same distance? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do low quality videos look worse in darker scenes and better in brighter scenes? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why are my allergies way worse the moment right after I wake up than any other time of the day? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: How do vinyl records store sound, and how does a needle reproduce that sound? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do people prefer some music over others? For instance, I enjoy rock n roll. I try listening to mariachi music bc Mexicans love it. And there's no way my brain even considers it as a viable option to listen to any time of the day. \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why do fats clog things? \n             Answer: "
+    },
+    {
+        "instruction": "Answer the following question.\n First make sure it can be answered.\n             If it cannot be answered, reply \"unanswerable\" \n             Question: Why does milk in the US taste different than milk in Canada? \n             Answer: "
+    }
+]

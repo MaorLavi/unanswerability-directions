@@ -1,0 +1,74 @@
+{
+  "llama3:squad": {
+    "precision_ans": 0.5859004739336493,
+    "recall_ans": 0.989,
+    "f1_ans": 0.7358630952380953,
+    "precision_unans": 0.9647435897435898,
+    "recall_unans": 0.301,
+    "f1_unans": 0.45884146341463417,
+    "avg_f1": 0.5973522793263648
+  },
+    "llama3:repliqa": {
+    "precision_ans": 0.5409658166033641,
+    "recall_ans": 0.997,
+    "f1_ans": 0.7013717903622932,
+    "precision_unans": 0.9808917197452229,
+    "recall_unans": 0.154,
+    "f1_unans": 0.26620570440795166,
+    "avg_f1": 0.48378874738512245
+  },
+  "llama3:nq": {
+    "precision_ans": 0.6409372846312887,
+    "recall_ans": 0.93,
+    "f1_ans": 0.7588739290085679,
+    "precision_unans": 0.8724954462659381,
+    "recall_unans": 0.479,
+    "f1_unans": 0.618463524854745,
+    "avg_f1": 0.6886687269316565
+  },
+  "llama3:musique": {
+    "precision_ans": 0.7294220665499125,
+    "recall_ans": 0.833,
+    "f1_ans": 0.7777777777777778,
+    "precision_unans": 0.8053613053613053,
+    "recall_unans": 0.691,
+    "f1_unans": 0.743810548977395,
+    "avg_f1": 0.7607941633775863
+  },
+    "gemma3:squad": {
+    "precision_ans": 0.568246716162193,
+    "recall_ans": 0.995,
+    "f1_ans": 0.723373318793166,
+    "precision_unans": 0.9799196787148594,
+    "recall_unans": 0.244,
+    "f1_unans": 0.3907125700560448,
+    "avg_f1": 0.5570429444246054
+  },
+    "gemma3:repliqa": {
+    "precision_ans": 0.5219206680584552,
+    "recall_ans": 1.0,
+    "f1_ans": 0.6858710562414266,
+    "precision_unans": 1.0,
+    "recall_unans": 0.084,
+    "f1_unans": 0.15498154981549817,
+    "avg_f1": 0.4204263030284624
+  },
+    "gemma3:nq": {
+    "precision_ans": 0.6898047722342733,
+    "recall_ans": 0.954,
+    "f1_ans": 0.8006714225765841,
+    "precision_unans": 0.9254457050243112,
+    "recall_unans": 0.571,
+    "f1_unans": 0.7062461348175634,
+    "avg_f1": 0.7534587786970737
+  },
+  "gemma3:musique": {
+    "precision_ans": 0.6483516483516484,
+    "recall_ans": 0.944,
+    "f1_ans": 0.7687296416938111,
+    "precision_unans": 0.8970588235294118,
+    "recall_unans": 0.488,
+    "f1_unans": 0.6321243523316062,
+    "avg_f1": 0.7004269970127086
+  }
+}
